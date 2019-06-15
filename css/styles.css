@@ -1,0 +1,18 @@
+#train-table th, td {
+  display: inline-block;
+  width: 16.575%;
+}
+
+header {
+    position: relative;
+    height: 346px;
+    margin: 0 auto 2em auto;
+    color: #000;
+    background-image: url(../train.jpg);
+}
+
+h1 {
+position: absolute;
+left: 1em;
+bottom: 0;
+}
