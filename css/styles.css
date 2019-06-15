@@ -1,6 +1,14 @@
 #train-table th, td {
   display: inline-block;
-  width: 16.575%;
+  width: 20%;
+}
+
+#train-table th {
+    font-weight: bold;
+  }
+
+label {
+    font-weight: bold;
 }
 
 header {
