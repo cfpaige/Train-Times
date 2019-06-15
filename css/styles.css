@@ -16,3 +16,18 @@ position: absolute;
 left: 1em;
 bottom: 0;
 }
+
+.card-header {
+    background-color: #789cce;
+    color: white;
+    font-weight: bold; 
+}
+
+#add-train-btn {
+    background-color: #014276;
+    font-weight: bold;
+}
+
+#add-train-btn:hover {
+    background-color: #789cce;
+}
