@@ -1,0 +1,22 @@
+{
+  "name": "train-times",
+  "version": "1.0.0",
+  "description": "",
+  "main": "main.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/cfpaige/Train-Times.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/cfpaige/Train-Times/issues"
+  },
+  "homepage": "https://github.com/cfpaige/Train-Times#readme",
+  "dependencies": {
+    "dotenv": "^8.0.0"
+  }
+}
